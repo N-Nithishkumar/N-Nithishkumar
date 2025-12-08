@@ -3,21 +3,21 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=FF3B3F&center=true&vCenter=true&width=600&lines=Nithish+Kumar;AI+%26+ML+Engineer;Full+Stack+Developer;Creator+%7C+Builder+%7C+Innovator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=FF3B3F&center=true&vCenter=true&width=600&lines=Nithish+Kumar+N;AI+%26+ML+Engineer;Full+Stack+Developer;Creator+%7C+Builder+%7C+Innovator" />
 </h1>
 
 ---
 
-## 🔥 **About Me**
+##  **About Me**
 
 Hey! I'm **Nithish Kumar**, a **3rd-year CSE (AI & ML)** student at  
 **KIT – Kalaignar Karunanidhi Institute of Technology**.
 
 I'm passionate about:
-- 🚀 Full Stack Web Development  
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🧠 Turning ideas into useful, scalable products  
-- 🛠️ Building projects with creativity & precision  
+-  Full Stack Web Development  
+-  Artificial Intelligence & Machine Learning  
+-  Turning ideas into useful, scalable products  
+-  Building projects with creativity & precision  
 
 I love solving problems, writing clean code, and exploring cutting-edge technologies.
 
