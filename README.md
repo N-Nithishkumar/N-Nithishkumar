@@ -23,9 +23,9 @@ I love solving problems, writing clean code, and exploring cutting-edge technolo
 
 ---
 
-## 🎯 **Skills**
+##  **Skills**
 
-### 💻 Languages  
+###  Languages  
 ![Python](https://img.shields.io/badge/Python-FF3B3F?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-8B0000?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-B22222?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -73,11 +73,11 @@ I love solving problems, writing clean code, and exploring cutting-edge technolo
 
 ---
 
-## ⚡ **Achievements & Interests**
-- 🧠 Exploring Full Stack + AI integration  
-- ⚙️ Building ML models & smart web apps  
-- 🎯 Constantly improving DSA & backend skills  
-- 🔥 Passionate about scalable & production-ready systems  
+##  **Achievements & Interests**
+-  Exploring Full Stack + AI integration  
+-  Building ML models & smart web apps  
+-  Constantly improving DSA & backend skills  
+-  Passionate about scalable & production-ready systems  
 
 ---
 
