@@ -11,7 +11,7 @@
 ##  **About Me**
 
 Hey! I'm **Nithish Kumar**, a **3rd-year CSE (AI & ML)** student at  
-**KIT – Kalaignar Karunanidhi Institute of Technology**.
+**KIT – KalaignarKarunanidhi Institute of Technology**.
 
 I'm passionate about:
 -  Full Stack Web Development  
